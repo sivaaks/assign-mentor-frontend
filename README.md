@@ -1,1 +1,1 @@
-# URL shortner frontend deployed URL : https://reus.ml
+# Frontend deployed URL : https://siva-assign-mentor.netlify.app
